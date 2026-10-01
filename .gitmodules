@@ -1,0 +1,6 @@
+[submodule "vggt"]
+	path = submodules/vggt
+	url = https://github.com/facebookresearch/vggt.git
+[submodule "submodules/lyra"]
+	path = submodules/lyra
+	url = git@github.com:Soldann/lyra.git
